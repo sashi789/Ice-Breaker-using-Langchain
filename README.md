@@ -46,7 +46,7 @@ This AI-powered agent does the work for you — it finds a person’s **LinkedIn
 
 3. **Install dependencies**
    ```bash
-   pip install -r requirements.txt
+   pipenv install -r pipfile.txt
    ```
 
 4. **Create your `.env` file**
