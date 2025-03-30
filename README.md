@@ -98,11 +98,6 @@ Then follow the prompt to enter a person’s name. The agent will:
 - 🖥️ Streamlit or web frontend
 - 📤 Export reports to PDF or Markdown
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, remix, and share!
 
 ---
 
