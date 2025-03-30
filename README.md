@@ -1,7 +1,3 @@
-Of course! Below is the complete `README.md` content in Markdown format — just copy and paste it directly into your `README.md` file:
-
----
-
 ```md
 # 🔍 Ice Breaker Agent – Find the Perfect Opener Using LinkedIn & Twitter!
 
