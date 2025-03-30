@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-community = "*"
+langchainhub = "*"
+black = "*"
+dotenv = "*"
+python-dotenv = "*"
+langchain-core = "*"
+langchain-openai = "*"
+langchain-ollama = "*"
+tweepy = "*"
+pydantic = "*"
+flask = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
